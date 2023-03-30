@@ -2,4 +2,5 @@ Hello, world
 12345
 Goodbye!
 SSH KEY ADDED
+Line from user2
 Line from user1
